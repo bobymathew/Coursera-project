@@ -1,1 +1,1 @@
-This was developed as a part of the coursera project.
+Python scripts used for the coursera project.
